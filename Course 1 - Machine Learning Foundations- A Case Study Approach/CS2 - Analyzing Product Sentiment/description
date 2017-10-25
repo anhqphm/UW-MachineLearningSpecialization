@@ -1,0 +1,3 @@
+In this module, we focused on classifiers, applying them to analyze product sentiment, and understading the types of errors a classifier makes. We also built an exciting iPython notebook for analyzing the sentiment of real product reviews.
+
+In this assignment, we are going to explore this application further, training a sentiment analysis model using a set of key polarizing words, verify the weights learned of each of these words, and compare the results of this simpler classifier with those of the one using all of the words. 
